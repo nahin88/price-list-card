@@ -1,0 +1,36 @@
+[
+    {
+      "id": 1,
+      "name": "Basic MemberShip",
+      "price": 39.99,
+      "features": [
+        "Basic equipment",
+        "Weight machines",
+        "Locker room access"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Premium MemberShip",
+      "price": 69.99,
+      "features": [
+        "All equipment",
+        "Free classes",
+        "Locker room access",
+        "Towel service"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "VIP MemberShip",
+      "price": 99.99,
+      "features": [
+        "All equipment",
+        "Free classes",
+        "Locker room access",
+        "Towel service",
+        "Personal training session"
+      ]
+    }
+  ]
+  
